@@ -1,9 +1,4 @@
-/*
- * led_toggle_with_onboard_button.c
- *
- *  Created on: 28 Jun 2026
- *      Author: Work
- */
+
 #include "stm32f446xx.h"
 
 int main(void)

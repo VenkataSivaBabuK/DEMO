@@ -1,9 +1,4 @@
-/*
- * Led_toggle.c
- *
- *  Created on: 27 Jun 2026
- *      Author: Siva
- */
+
 #include "stm32f446xx.h"
 /*int main(void)
 {

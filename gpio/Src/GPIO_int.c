@@ -1,10 +1,4 @@
-/*
- * GPIO_int.c
- *
- *  Created on: 2 Jul 2026
- *      Author: Work
- *
- */
+/
 #include "stm32f446xx.h"
 
 int main(void)

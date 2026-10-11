@@ -1,9 +1,3 @@
-/*
- * STM32F446xx_gpio.c
- *
- *  Created on: 26 Jun 2026
- *      Author: Work
- */
 
 #include "stm32f446xx_gpio.h"
 
